@@ -1,0 +1,11 @@
+village,hh_id,member_id,name,full_address,landmark,age,marital_sts,gender,income,caste_cf,type_of_house,disability,aadhar_card,bank_ac,election_card,status_of_women,religion,land_ownership,education_sts,height_cm,weight_kgs
+Kerala,11210507001,112105070011,Lalitbhai Laxman Bhai Parmar,Kerala,navapara,50,Currently married,Male,"Less than and equal to 47,000",Yes,Kaccha,No disability,No,,Yes,,,No,Secondary (std 9-10),,
+Kerala,11210507001,112105070012,Jayaben Lalitbhai Parmar,Kerala,navapara,45,Currently married,Female,"Less than and equal to 47,000",Yes,Kaccha,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Secondary (std 9-10),,
+Kerala,11210507001,112105070013,Aruna Lalitbhai Parmar,Kerala,navapara,25,Never Married,Female,"Less than and equal to 47,000",Yes,Kaccha,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Higher Secondary (std 11-12),,
+Kerala,11210507001,112105070014,Chetna Lalitbhai Parmar,Kerala,navapara,22,Never Married,Female,"Less than and equal to 47,000",Yes,Kaccha,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Higher Secondary (std 11-12),,
+Kerala,11210507001,112105070015,Savan Lalitbhai Parmar,Kerala,navapara,21,Never Married,Male,"Less than and equal to 47,000",Yes,Kaccha,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507002,112105070021,Mukesh Nanji Parmar,Kerala,navapara,30,Currently married,Male,"Less than and equal to 47,000",Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507002,112105070022,Harsha Mukesh Parmar,Kerala,navapara,30,Currently married,Female,"Less than and equal to 47,000",Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507002,112105070023,Hetal Mukesh Parmar,Kerala,navapara,20,Never Married,Female,"Less than and equal to 47,000",Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507003,112105070031,Ramesh Damji Ladher,Kerala,navapara,50,Currently married,Male,"Less than and equal to 47,000",Yes,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507003,112105070032,Parbha Ramesh Ladher,Kerala,navapara,40,Currently married,Female,"Less than and equal to 47,000",Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Secondary (std 9-10),,

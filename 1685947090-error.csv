@@ -1,0 +1,311 @@
+village,hh_id,member_id,name,full_address,landmark,age,marital_sts,gender,income,caste_cf,type_of_house,disability,aadhar_card,bank_ac,election_card,status_of_women,religion,land_ownership,education_sts,height_cm,weight_kgs,error
+Kerala,11210507104,112105071041,Amrut Lalji Patdiya,Kerala,dukan,60,Currently married,Male,Less than and equal to 47,000,Yes,Kaccha,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507104,112105071042,Hina Amrut Patdiya,Kerala,dukan,50,Currently married,Female,Less than and equal to 47,000,Yes,Kaccha,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507104,112105071043,Prakash Amrut Patdiya,Kerala,dukan,30,Never Married,Male,Less than and equal to 47,000,Yes,Kaccha,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507104,112105071044,Janvi Amrut Patdiya,Kerala,dukan,20,Never Married,Female,Less than and equal to 47,000,Yes,Kaccha,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507105,112105071051,Roshan Firoj Badi,Kerala,navapara,25,Currently married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Illiterate,,
+Kerala,11210507105,112105071052,Firoj Ebrahim Badi,Kerala,navapara,28,Currently married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507105,112105071053,Rosan Firoj Badi,Kerala,navapara,28,Currently married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507106,112105071061,Arvind Vasa Ambaliya,Kerala,vas,40,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507106,112105071062,Daxa Arvid Ambaliya,Kerala,vas,40,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507106,112105071063,Piya Arvind Ambaliya,Kerala,vas,18,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507107,112105071071,Jignesh Jayesh Ambaliya,Kerala,vas,30,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507107,112105071072,Hetal Jayesh Ambaliya,Kerala,vas,60,Widow/Widower,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507108,112105071081,Nitin Pitambr Solanki,Kerala,vas,40,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507108,112105071082,Pragna Nitin Solanki,Kerala,vas,35,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Higher Secondary (std 11-12),,
+Kerala,11210507109,112105071091,Pravin Damji Ladher,Kerala,vas,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507109,112105071092,Rita Pravin Padher,Kerala,vas,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507109,112105071093,Vishal Pravin Ladher,Kerala,vas,10,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,,,No,Primary (std1-8),,
+Kerala,11210507110,112105071101,Sanjay Raghu Abasniya,Kerala,navapara,30,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507110,112105071102,Hansa Snjay Abasniya,Kerala,navapara,30,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507110,112105071103,Manish Sanjay Abasniya,Kerala,navapara,20,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507111,112105071111,Aasik Esmal Mathkiya,Kerala,gam,20,Currently married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507111,112105071112,Fati Esmal Mathkiya,Kerala,gam,50,Never Married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507111,112105071113,Esmal Hyat Mathkiya,Kerala,gam,50,Currently married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507112,112105071121,Megha Gora Parmar,Kerala,navapara,60,Widow/Widower,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507113,112105071131,Majid Yasin Pathan,Kerala,navapara,50,Currently married,Male,Less than and equal to 47,000,Yes,Kaccha,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507113,112105071132,Jamila Majid Pathan,Kerala,navapara,50,Currently married,Female,Less than and equal to 47,000,Yes,Kaccha,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507113,112105071133,Simran Majid Pathan,Kerala,navapara,20,Never Married,Female,Less than and equal to 47,000,Yes,Kaccha,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507114,112105071141,Ali Haji Badi,Kerala,gam,60,Currently married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507114,112105071142,Janu Ali Badi,Kerala,gam,60,Currently married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507115,112105071151,Pasa Mohan Setaniya,Kerala,navapara,30,Currently married,Male,Less than and equal to 47,000,Yes,Kaccha,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507115,112105071152,Mangu Pasa Setaniya,Kerala,navapara,30,Currently married,Female,Less than and equal to 47,000,Yes,Kaccha,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507116,112105071161,Ranjan Lalji Setaniya,Kerala,navapara,40,Widow/Widower,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507117,112105071171,Champa Gobar Dervadiya,Kerala,navapara,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Illiterate,,
+Kerala,11210507118,112105071181,Samrin Aslam Pathan,Kerala,navapara,20,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507118,112105071182,Samrin Aslam Pathan,Kerala,navapara,0,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,Neither pregnant nor nursing,,No,,,
+Kerala,11210507119,112105071191,Ibrahim Nurmamd Badi,Kerala,nava para,50,Currently married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507119,112105071192,Nusrt Ibrahim Badi,Kerala,nava para,30,Currently married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507120,112105071201,Salma Basir Pathan,Kerala,navapara,30,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507120,112105071202,Basir Yasin Pathan,Kerala,navapara,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507121,112105071211,Kadu Khima Vekariya,Kerala,blok,60,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507121,112105071212,Rupa Kadu Vekariya,Kerala,blok,60,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507122,112105071221,Vasa Bechar Ambaliya,Kerala,vas,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507122,112105071222,Devu Vasa Ambaliya,Kerala,vas,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507123,112105071231,Lakha Pacha Bambhva,Kerala,navapara,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507123,112105071232,Gopal Lakha Bambhva,Kerala,navapara,30,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507124,112105071241,Fejal Majid Pathan,Kerala,navapara,30,Currently married,Male,Less than and equal to 47,000,Yes,Kaccha,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507124,112105071242,Najmin Fejal Pathan,Kerala,navapara,28,Currently married,Female,Less than and equal to 47,000,Yes,Kaccha,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507125,112105071251,Raju Bachu Ambaliya,Kerala,vas,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507125,112105071252,Niru Raju Ambaliya,Kerala,vas,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507126,112105071261,Akshy Gobar Dervadiya,Kerala,navapara,27,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Secondary (std 9-10),,
+Kerala,11210507126,112105071262,Sapna Akshy Dervadiya,Kerala,navapara,26,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Higher Secondary (std 11-12),,
+Kerala,11210507127,112105071271,Ramesh Kesu Ambaliya,Kerala,vas,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507127,112105071272,Daxa Ramesh Ambaliya,Kerala,vas,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507127,112105071273,Keyur Ramesh Ambaliya,Kerala,vas,25,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507127,112105071274,Abhi Ramesh Ambaliya,Kerala,vas,20,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507128,112105071281,Sanjay Kesu Ambaliya,Kerala,vas,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507128,112105071282,Kasmira Sanjay Ambaliya,Kerala,vas,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507128,112105071283,Monil Sanjay Ambaliya,Kerala,vas,25,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507128,112105071284,Vily Sanjay Ambaliya,Kerala,vas,21,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507129,112105071291,Rahim Hamid Pathan,Kerala,gam,50,Currently married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507129,112105071292,Halima Rahim Pathan,Kerala,gam,50,Currently married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507130,112105071301,Remesh Chtur Ambaliya,Kerala,vas,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507130,112105071302,Hiren Ramesh Ambaliya,Kerala,vas,30,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507130,112105071303,Nita Ramesh Ambaliya,Kerala,vas,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507132,112105071321,Darshna Ashok Talsaniya,Kerala,navapara,20,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507132,112105071322,Radha Ashok Talsaniya,Kerala,navapara,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507132,112105071323,Ashok Lalji Talsaniya,Kerala,navapara,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507133,112105071331,Laxmi Sana Ambaliya,Kerala,gam,60,Widow/Widower,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Illiterate,,
+Kerala,11210507133,112105071332,Sana Hari Ambaliya,Kerala,gam,60,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507134,112105071341,Mahesh Gordhn Setaniya,Kerala,navapara,30,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507134,112105071342,Gita Mahesh Setaniya,Kerala,navapara,25,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507135,112105071351,Mansukh Vasu Setaniya,Kerala,gam,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507135,112105071352,Jasu Mansukh Setaniya,Kerala,gam,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507135,112105071353,Mayur Mansukh Setaniya,Kerala,gam,10,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,,,No,Primary (std1-8),,
+Kerala,11210507136,112105071361,Gita Vivek Gosvami,Kerala,gam,30,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507136,112105071362,Vivek Sukha Gosvami,Kerala,gam,30,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507137,112105071371,Kanu Dhiraj Vekariya,Kerala,gam,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507137,112105071372,Sonal Dhiraj Vekariya,Kerala,gam,20,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507137,112105071373,Dhiraj Narshi Vekariya,Kerala,gam,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507138,112105071381,Gordhn Vasu Setaniya,Kerala,navapara,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507138,112105071382,Hansa Gordhn Setaniya,Kerala,navapara,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507138,112105071383,Ramesh Gordhn Setaniya,Kerala,navapara,25,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507139,112105071391,Tasrifa Asraf Mathkiya,Kerala,gelexy society,30,Currently married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507139,112105071392,Asraf Hushen Mathkiya,Kerala,gelexy society,30,Currently married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507140,112105071401,Butesh Samji Setaniya,Kerala,gam,30,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507140,112105071402,Punam Butesh Setaniya,Kerala,gam,30,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507140,112105071403,Parash Butesh Setaniya,Kerala,gam,5,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,,,No,,,
+Kerala,11210507141,112105071411,Jenti Mansukh Setaniya,Kerala,gam,25,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507141,112105071412,Usa Jenti Setaniya,Kerala,gam,25,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507142,112105071421,Josna Dinesh Saravadiya,Kerala,gam,40,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507142,112105071422,Dinesh Arjan Saravadiya,Kerala,gam,40,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507142,112105071423,Priti Dinesh Saravadiya,Kerala,gam,20,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Higher Secondary (std 11-12),,
+Kerala,11210507143,112105071431,Ilmudin Mahmad Mathkiya,Kerala,panchayt,50,Currently married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507143,112105071432,Nasim Ilmudin Mathkiya,Kerala,panchayt,50,Currently married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507143,112105071433,Riyast Mahmad Mathkiya,Kerala,panchayt,7,Never Married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,,,,No,Primary (std1-8),,
+Kerala,11210507143,112105071434,Muskan Ilmudin Mathkiya,Kerala,panchayt,20,Never Married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507143,112105071435,Aarif Ilmudin Mathkiya,Kerala,panchayt,25,Never Married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507144,112105071441,Hushen Vali Mathkiya,Kerala,gelexi society,50,Currently married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507144,112105071442,Nuri Hushne Mathkiya,Kerala,gelexi society,50,Currently married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507145,112105071451,Bhrat Kamu Setaniya,Kerala,gam,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507145,112105071452,Monghi Bhrat Setaniya,Kerala,gam,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507145,112105071453,Kisan Bhrat Setaniya,Kerala,gam,20,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507145,112105071454,Sangita Bhrat Setaniya,Kerala,gam,20,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507146,112105071461,Dhramsi Gordhn Aghola,Kerala,gam,40,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507146,112105071462,Chndrika Dhrshi Aghola,Kerala,gam,35,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507146,112105071463,Aakash Dhrshi Aghola,Kerala,gam,7,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,,,No,Primary (std1-8),,
+Kerala,11210507147,112105071471,Samji Bijal Setaniya,Kerala,gam,60,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507147,112105071472,Hemu Samji Setaniya,Kerala,gam,60,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507148,112105071481,Santa Gordhn Aghola,Kerala,gam,60,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507148,112105071482,Gordhn Arjan Aghola,Kerala,gam,60,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507149,112105071491,Pasa Narsi Vekariya,Kerala,gam,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507149,112105071492,Bharti Pasa Vekariya,Kerala,gam,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507149,112105071493,Narsi Tapu Vekariya,Kerala,gam,60,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Illiterate,,
+Kerala,11210507149,112105071494,Jeti Tapu Vekariya,Kerala,gam,60,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Illiterate,,
+Kerala,11210507150,112105071501,Mina Megha Bambhva,Kerala,gam,60,Widow/Widower,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Illiterate,,
+Kerala,11210507151,112105071511,Ranjan Sukha Gosvami,Kerala,gam,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507151,112105071512,Chirag Sukha Gosvami,Kerala,gam,25,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507151,112105071513,Sarsvati Sukha Gosvami,Kerala,gam,30,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507152,112105071521,Lalit Gordhn Aghola,Kerala,navapara,30,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507152,112105071522,Manisha Lalit Aghola,Kerala,navapara,30,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507152,112105071523,Rupi Lalit Aghola,Kerala,navapara,2,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,Neither pregnant nor nursing,,No,,,
+Kerala,11210507153,112105071531,Vipul Samji Setaniya,Kerala,gam,30,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Secondary (std 9-10),,
+Kerala,11210507153,112105071532,Kajal Vipul Setaniya,Kerala,gam,30,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507153,112105071533,Kinjal Vipul Setaniya,Kerala,gam,10,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507153,112105071534,Raj Vipul Setaniya,Kerala,gam,5,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,,,No,,,
+Kerala,11210507154,112105071541,Trusna Sanjay Gosvami,Kerala,gam,30,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507154,112105071542,Nidhi Sanjay Gosvami,Kerala,gam,2,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,Neither pregnant nor nursing,,No,,,
+Kerala,11210507154,112105071543,Sanjay Giri Gosvami,Kerala,gam,30,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507155,112105071551,Javid Yasin Pathan,Kerala,gam,20,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507155,112105071552,Nasim Yasin Pathan,Kerala,gam,30,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Secondary (std 9-10),,
+Kerala,11210507156,112105071561,Harsha Parvin Talsaniya,Kerala,gam,40,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507156,112105071562,Parvin Hira Talsaniya,Kerala,gam,40,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507156,112105071563,Rikita Parvin Talsaniya,Kerala,gam,25,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Higher Secondary (std 11-12),,
+Kerala,11210507156,112105071564,Nikunj Parvin Talsaniya,Kerala,gam,20,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507157,112105071571,Arjan Deku Saravadiya,Kerala,blok,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507157,112105071572,Biha Arjan Saravadiya,Kerala,blok,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507158,112105071581,Hushen Haji Mathkiya,Kerala,gam,50,Currently married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507158,112105071582,Hanifa Hushne Mathkiya,Kerala,gam,50,Currently married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507159,112105071591,Ramesh Vasta Kundhiya,Kerala,horidhar,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507159,112105071592,Gita Ramesh Kundhiya,Kerala,horidhar,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507159,112105071593,Raju Ramesh Kundhiya,Kerala,horidhar,20,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Secondary (std 9-10),,
+Kerala,11210507159,112105071594,Sanjay Ramesh Kundhiya,Kerala,horidhar,15,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,,,No,Primary (std1-8),,
+Kerala,11210507159,112105071595,Ramen Ramesh Kundiya,Kerala,horidhar,15,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,,,No,Primary (std1-8),,
+Kerala,11210507160,112105071601,Samji Chgan Vadveliya,Kerala,gam,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Secondary (std 9-10),,
+Kerala,11210507160,112105071602,Daya Samji Vadveliya,Kerala,gam,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Higher Secondary (std 11-12),,
+Kerala,11210507160,112105071603,Ravi Samji Vadveliya,Kerala,gam,20,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,No,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507160,112105071604,Devraj Samji Vadveliya,Kerala,gam,28,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507160,112105071605,Parul Samji Chgan,Kerala,gam,22,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Higher Secondary (std 11-12),,
+Kerala,11210507161,112105071611,Aamd Latif Sahmdar,Kerala,navapara,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507161,112105071612,Hafija Aamd Sahmdar,Kerala,navapara,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507161,112105071613,Asraf Aamd Sahmdar,Kerala,navapara,25,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507162,112105071621,Ganga Khoda Vaghri,Kerala,gam,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507162,112105071622,Dudhi Ganga Vaghri,Kerala,gam,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507162,112105071623,Sunil Ganga Vaghri,Kerala,gam,30,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Secondary (std 9-10),,
+Kerala,11210507163,112105071631,Makbu Jusa Saiyd,Kerala,gam,50,Currently married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507163,112105071632,Nirja Makbu Saiyad,Kerala,gam,50,Currently married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507163,112105071633,Gulamhushen Makbu Saiyad,Kerala,gam,30,Never Married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Secondary (std 9-10),,
+Kerala,11210507163,112105071634,Sohana Makbu Saiyad,Kerala,gam,20,Never Married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507164,112105071641,Vikram Vasta Kundhiya,Kerala,hori dhar,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507164,112105071642,Premji Vasta Kundhiya,Kerala,hori dhar,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507164,112105071643,Jayshri Premji Kundhiya,Kerala,hori dhar,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507164,112105071644,Sangita Premji Kundhiya,Kerala,hori dhar,20,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507164,112105071645,Rekha Premji Kundhiya,Kerala,hori dhar,20,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,No,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507165,112105071651,Bhanu Bhimji Agechaniya,Kerala,navapara,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507165,112105071652,Vimal Bhimji Agechaniya,Kerala,navapara,28,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507165,112105071653,Rohit Bhimji Agechaniya,Kerala,navapara,25,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507165,112105071654,Chndrika Bhimji Agechaniya,Kerala,navapara,18,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,No,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507166,112105071661,Jakir Vali Badi,Kerala,blok,41,Currently married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507166,112105071662,Hanifa Jakir Badi,Kerala,blok,40,Currently married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507166,112105071663,Ishrahib Jakir Badi,Kerala,blok,9,Never Married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507166,112105071664,Saina Jakir Badi,Kerala,blok,22,Never Married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507167,112105071671,Hanif Hushen Pathan,Kerala,blok,40,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507167,112105071672,Hasina Hanif Pathan,Kerala,blok,40,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507167,112105071673,Afjal Hanif Pathan,Kerala,blok,25,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507167,112105071674,Mahebub Hanif Pathan,Kerala,blok,20,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507168,112105071681,Ali Aahmad Mathkiya,Kerala,blok,49,Currently married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507168,112105071682,Janu Ali Mathkiya,Kerala,blok,48,Currently married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Secondary (std 9-10),,
+Kerala,11210507168,112105071683,Jenam Ali Mathkiya,Kerala,blok,20,Never Married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Higher Secondary (std 11-12),,
+Kerala,11210507169,112105071691,Fatma Bapu Saiyd,Kerala,gam,50,Widow/Widower,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507169,112105071692,Dilavr Bapu Saiyd,Kerala,gam,30,Never Married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Higher Secondary (std 11-12),,
+Kerala,11210507170,112105071701,Mahipal Dadu Makvana,Kerala,mandir,19,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,No,,,No,Primary (std1-8),,
+Kerala,11210507170,112105071702,Manjula Dadu Makvana,Kerala,mandir,40,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507171,112105071711,Naghan Karsan Vekariya,Kerala,gam,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Secondary (std 9-10),,
+Kerala,11210507171,112105071712,Jasu Navghan Vekariya,Kerala,gam,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507171,112105071713,Dhval Navghan Vekariya,Kerala,gam,15,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,,,No,Primary (std1-8),,
+Kerala,11210507172,112105071721,Khengar Khoda Vaghri,Kerala,gam,40,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507172,112105071722,Gita Khengar Vaghri,Kerala,gam,40,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507172,112105071723,Poja Khengar Vaghri,Kerala,gam,25,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507172,112105071724,Laxman Khengar Vaghri,Kerala,gam,28,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Secondary (std 9-10),,
+Kerala,11210507172,112105071725,Sudha Khengar Vaghri,Kerala,gam,22,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507173,112105071731,Aarefa Aldul Mansuri,Kerala,gam,45,Widow/Widower,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507173,112105071732,Riyaj Abdul Mansuri,Kerala,gam,25,Never Married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507174,112105071741,Usman Mamad Badi,Kerala,blok,45,Never Married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507174,112105071742,Amina Usman Badi,Kerala,blok,43,Currently married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507174,112105071743,Kulsum Usman Badi,Kerala,blok,20,Never Married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507175,112105071751,Saji Haji Mathkiya,Kerala,gam,40,Currently married,Male,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,,,No,Secondary (std 9-10),,
+Kerala,11210507175,112105071752,Asi Saji Mathkiya,Kerala,gam,40,Currently married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+Kerala,11210507175,112105071753,Anjum Saji Mathkiya,Kerala,gam,25,Never Married,Female,Less than and equal to 47,000,,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Secondary (std 9-10),,
+Kerala,11210507176,112105071761,Samat Amrshi Vadveliya,Kerala,gam,50,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,No,Primary (std1-8),,
+Kerala,11210507176,112105071762,Kanku Samat Vadveliya,Kerala,gam,50,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither pregnant nor nursing,,No,Primary (std1-8),,
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists
+,,,,,,,,,,,,,,,,,,,,,,Village does not exists

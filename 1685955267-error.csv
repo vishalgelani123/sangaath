@@ -1,0 +1,158 @@
+village,hh_id,member_id,name,full_address,landmark,age,marital_sts,gender,income,caste_cf,type_of_house,disability,aadhar_card,bank_ac,election_card,status_of_women,religion,land_ownership,education_sts,height_cm,weight_kgs,error
+Amreli,11020101321,110201013211,Vijaybhai Haribhai Chavda,amreli,parel kolani,38,Currently married,Male,47,001 to 1,19,999,Yes,Kaccha,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101625,110201016253,Harshil Vijaybhai Makwana,amreli,shastri nagar,9,Never Married,Male,47,001 to 1,19,999,Yes,Kaccha,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101625,110201016252,Vandanaben Vijaybhai Makwana,amreli,shastri nagar,30,Currently married,Female,47,001 to 1,19,999,Yes,Kaccha,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101625,110201016251,Vijaybhai Lallubhai Makwana,amreli,shastri nagar,32,Currently married,Male,47,001 to 1,19,999,Yes,Kaccha,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101226,110201012262,Dayaben Vijaybhai Kodiyatar,amreli jilla panchyat,giriraj nagar,28,Currently married,Female,2,00,000 to 3,99,999,Yes,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101226,110201012261,Vijaybhai Rambhai Kodiyatar,amreli jilla panchyat,giriraj nagar,32,Currently married,Male,2,00,000 to 3,99,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101226,110201012263,Vishalbhai Vijaybhai Kodiyatar,amreli jilla panchyat,giriraj nagar,10,Never Married,Male,2,00,000 to 3,99,999,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101626,110201016262,Piryank Vijaybhai Dholakiya,amreli,omnagar,6,Never Married,Male,47,001 to 1,19,999,No,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101626,110201016263,Ramilaben Vijaybhai Dholakiya,amreli,omnagar,34,Currently married,Female,47,001 to 1,19,999,No,Pucca,No disability,Yes,,Yes,Pregnantting,,,,,,Village does not exists
+Amreli,11020101626,110201016261,Vijaybhai Ramjibhai Dholakiya,amreli,omnagar,38,Currently married,Male,47,001 to 1,19,999,No,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101627,110201016272,Kinjalben Vijaybhai Rathod,amreli,vestarn park,36,Currently married,Female,47,001 to 1,19,999,Yes,Semi-pucca,No disability,Yes,,Yes,Pregnantting,,,,,,Village does not exists
+Amreli,11020101627,110201016273,Prins Vijaybhai Rathod,amreli,vestarn park,9,Never Married,Male,47,001 to 1,19,999,Yes,Semi-pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101627,110201016271,Vijaybhai Valjibhai Rathod,amreli,vestarn park,39,Currently married,Male,47,001 to 1,19,999,Yes,Semi-pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101494,110201014945,Akshatsing Vijaybhai Parmar,Amreli,srvody sosaiti chitl rod,5,Never Married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101494,110201014942,Morning Naben Vijaybhai Parmar,Amreli,srvody sosaiti chitl rod,40,Currently married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,No,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101494,110201014943,Riyaben Vijybhai Parmar,Amreli,srvody sosaiti chitl rod,12,Never Married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101494,110201014944,Somiyaben Vijay Bhai Parmar,Amreli,srvody sosaiti chitl rod,10,Never Married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101494,110201014941,Vijaykumar Pratapsinh Parmar,Amreli,srvody sosaiti chitl rod,48,Never Married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101442,110201014422,Bhavnaben Vinodbhai Vaghela,amreli,gayatri mandir pasal,33,Currently married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101442,110201014423,Prathnaben Vinodbhai Vaghela,amreli,gayatri mandir pasal,15,Never Married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101442,110201014421,Vinodbhai Samjibhai Vaghela,amreli,gayatri mandir pasal,35,Currently married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101083,110201010832,Dayaben Vinubhai Chavada,Bheela,shreebheela school pachal,40,Currently married,Female,1,20,000 to 1,99,999,Yes,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101083,110201010835,Dishant Vinubhai Chavada,Bheela,shreebheela school pachal,9,Never Married,Male,1,20,000 to 1,99,999,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101083,110201010834,Niddhi Vinubhai Chavada,Bheela,shreebheela school pachal,13,Never Married,Female,1,20,000 to 1,99,999,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101083,110201010833,Tanvi Vinubhai Chavada,Bheela,shreebheela school pachal,15,Never Married,Female,1,20,000 to 1,99,999,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101083,110201010831,Vinubhai Babubhai Chavada,Bheela,shreebheela school pachal,43,Currently married,Male,1,20,000 to 1,99,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101894,110201018941,Vinubhai Dhirubhai Dangar,Amreli,jesingpara,39,Divorced,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101894,110201018942,Viral Vinubhai Dangar,Amreli,jesingpara,15,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101750,110201017503,Druv Vipul Bhai Sakliya,Amreli,sankul,16,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101750,110201017502,Nimu Ben Vipul Bhai Sakliya,Amreli,sankul,40,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,No,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101750,110201017501,Vipul Babu Bhai Sakliya,Amreli,sankul,40,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101084,110201010842,Prabha Ben Vipul Bhai Parmar,amreli,ram para jeshigpara,42,Currently married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101084,110201010843,Uday Vipul Bhai Parmar,amreli,ram para jeshigpara,19,Never Married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,No,,,,,,,Village does not exists
+Amreli,11020101084,110201010841,Vipul Bhai Keshu Bhai Parmar,amreli,ram para jeshigpara,42,Currently married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101084,110201010844,Yash Vipul Bhai Parmar,amreli,ram para jeshigpara,17,Never Married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101751,110201017513,Dharmik Vipul Bhai Sakliya,àmlie,sankuk pase,16,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101751,110201017512,Nimu Ben Vipul Bhai Sakliya,àmlie,sankuk pase,42,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101751,110201017511,Vipul Bhai Babu Bhiia Sakliya,àmlie,sankuk pase,40,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101903,110201019032,Vipul Giri Narayan Giri Gosai,Amreli jila panchayat,sukh nathi Mandir amreli,52,Currently married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101942,110201019421,Labhuben Babubhai Dobariya,amreli,rampara 1,72,Widow/Widower,Female,47,001 to 1,19,999,,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101942,110201019426,Manya Vipulbhai Dobariya,amreli,rampara 1,7,Never Married,Female,47,001 to 1,19,999,,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101942,110201019422,Pravinbhai Babubhai Dobariya,amreli,rampara 1,45,Never Married,Male,47,001 to 1,19,999,,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101942,110201019424,Radhikaben Vipulbhai Dobariya,amreli,rampara 1,32,Currently married,Female,47,001 to 1,19,999,,Pucca,No disability,No,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101942,110201019425,Smit Vipulbhai Dobariya,amreli,rampara 1,13,Never Married,Male,47,001 to 1,19,999,,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101942,110201019423,Vipulbhai Babubhai Dobariya,amreli,rampara 1,40,Currently married,Male,47,001 to 1,19,999,,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101495,110201014953,Banshalbhai Nileshbhai Makwana,amreli,juni vanjavad chorapa,14,Never Married,Male,1,20,000 to 1,99,999,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101495,110201014951,Nileshbhai Vipulbhai Makwana,amreli,juni vanjavad chorapa,41,Currently married,Male,1,20,000 to 1,99,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101495,110201014952,Purviben Nileshbhai Makwana,amreli,juni vanjavad chorapa,40,Currently married,Female,1,20,000 to 1,99,999,Yes,Pucca,No disability,Yes,,Yes,Pregnantting,,,,,,Village does not exists
+Amreli,11020101495,110201014954,Svara Ben Nileshbhai Makwana,amreli,juni vanjavad chorapa,10,Never Married,Female,1,20,000 to 1,99,999,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101250,110201012502,Kajalben Vipulbhai Dabhi,Amreli jilla panchayat,cheetal rod,32,Currently married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101250,110201012503,Khyatiben Vipulbhai Dabhi,Amreli jilla panchayat,cheetal rod,9,Never Married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101250,110201012501,Vipulbhai Dhanjibhai Dabhi,Amreli jilla panchayat,cheetal rod,42,Currently married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101752,110201017523,Smitiben Vipul Bhai Mehata,amreli,dargahpase,28,Currently married,Female,47,001 to 1,19,999,,Pucca,No disability,Yes,,Yes,Pregnantting,,,,,,Village does not exists
+Amreli,11020101752,110201017521,Vaibhavi Vipul Bhai Mehta,amreli,dargahpase,13,Never Married,Male,47,001 to 1,19,999,,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101752,110201017522,Vipulbhai Heera Bhai Mehata,amreli,dargahpase,36,Currently married,Male,47,001 to 1,19,999,,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101013,110201010132,Daxaben Vipulbhai Pandya,Amreli jilla panchayat,Amreli,39,Currently married,Female,2,00,000 to 3,99,999,,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101013,110201010134,Dhruv Vipulbhai Pandya,Amreli jilla panchayat,Amreli,11,Never Married,Male,2,00,000 to 3,99,999,,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101013,110201010133,Preet Vipulbhai Pandya,Amreli jilla panchayat,Amreli,17,Never Married,Male,2,00,000 to 3,99,999,,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101013,110201010131,Vipulbhai Jagdishbhai Pandya,Amreli jilla panchayat,Amreli,39,Currently married,Male,2,00,000 to 3,99,999,,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101322,110201013224,Bhaveshbhai Vipulbhai Bambhaniya,amreli,jesingpara,15,Never Married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101322,110201013222,Nimuben Vipulbhai Bambhaniya,amreli,jesingpara,38,Currently married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,Pregnantting,,,,,,Village does not exists
+Amreli,11020101322,110201013223,Piyushbhai Vipulbhai Bambhaniya,amreli,jesingpara,13,Never Married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101322,110201013225,Vinodbhai Vipulbhai Bambhaniya,amreli,jesingpara,16,Never Married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101322,110201013221,Vipulbhai Jagubhai Bambhaniya,amreli,jesingpara,40,Currently married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101628,110201016282,Prabhaben Vipulbhai Parmar,amreli,kumbharvada,40,Currently married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101628,110201016283,Uday Vipul Bhai Parmar,amreli,kumbharvada,20,Never Married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101628,110201016281,Vipulbhai Keshubhai Parmar,amreli,kumbharvada,42,Currently married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101628,110201016284,Yash Vipulbhai Parmar,amreli,kumbharvada,18,Never Married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,No,,,,,,,Village does not exists
+Amreli,11020101323,110201013232,Prabhaben Vipulbhai Parmar,Amreli,jesingpara,37,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Pregnantting,,,,,,Village does not exists
+Amreli,11020101323,110201013231,Vipulbhai Kesubhai Parmar,Amreli,jesingpara,42,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101323,110201013233,Yashbhai Vipulbhai Parmar,Amreli,jesingpara,17,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101085,110201010852,Smitaben Vipulbhai Patel,Amreli,amreli,40,Currently married,Female,2,00,000 to 3,99,999,,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101085,110201010853,Smitbhai Vipulbhai Patel,Amreli,amreli,19,Never Married,Male,2,00,000 to 3,99,999,,Pucca,No disability,Yes,,No,,,,,,,Village does not exists
+Amreli,11020101085,110201010851,Vipul Bhai Mahendra Bhai Patel,Amreli,amreli,42,Currently married,Male,2,00,000 to 3,99,999,,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101085,110201010854,Yashbhai Vipulbhai Patel,Amreli,amreli,17,Never Married,Male,2,00,000 to 3,99,999,,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101444,110201014442,Rudr Vipulbhai Vaja,amreli,omnagar,6,Never Married,Male,47,001 to 1,19,999,No,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101444,110201014443,Varshben Vipulbhai Vaja,amreli,omnagar,32,Currently married,Female,47,001 to 1,19,999,No,Pucca,No disability,Yes,,Yes,Pregnantting,,,,,,Village does not exists
+Amreli,11020101444,110201014441,Vipulbhai Natubhai Vaja,amreli,omnagar,35,Currently married,Male,47,001 to 1,19,999,No,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101904,110201019043,Bhavarth Vipulkumar Vyas,Amreli,Maniba park amreli,15,Never Married,Male,4,00,000 to 4,99,999,,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101904,110201019042,Nishaben Vipulkumar Vyas,Amreli,Maniba park amreli,42,Currently married,Female,4,00,000 to 4,99,999,,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101904,110201019044,Parv Vipulkumar Vyas,Amreli,Maniba park amreli,6,Never Married,Male,4,00,000 to 4,99,999,,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101904,110201019041,Vipulkumar Mulshankar Vyas,Amreli,Maniba park amreli,46,Currently married,Male,4,00,000 to 4,99,999,,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101239,110201012393,Dakshaben Viralbhai Rokad,amreli,patelcolony,40,Currently married,Female,47,001 to 1,19,999,,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101239,110201012392,Darmik Viralbhai Rokad,amreli,patelcolony,14,Never Married,Male,47,001 to 1,19,999,,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101239,110201012394,Kenviben Viralbhai Rokad,amreli,patelcolony,18,Never Married,Female,47,001 to 1,19,999,,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101239,110201012391,Viralbhai Jitubhai Rokad,amreli,patelcolony,40,Currently married,Male,47,001 to 1,19,999,,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101629,110201016291,Krutika Viralabhai Makavana,amreli,Vestas park,12,Never Married,Female,1,20,000 to 1,99,999,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101629,110201016292,Naynaben Viralabhai Makavana,amreli,Vestas park,35,Currently married,Female,1,20,000 to 1,99,999,Yes,Pucca,No disability,Yes,,Yes,Pregnantting,,,,,,Village does not exists
+Amreli,11020101629,110201016293,Viralabhai Jinabhai Makavana,amreli,Vestas park,41,Currently married,Male,1,20,000 to 1,99,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101753,110201017532,Farjana Yakof Bhai Pathan,amreli,sandhi sociaty,26,Currently married,Female,47,001 to 1,19,999,Yes,Kaccha,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101753,110201017533,Juned Yakof Bhai Pathan,amreli,sandhi sociaty,11,Never Married,Male,47,001 to 1,19,999,Yes,Kaccha,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101753,110201017531,Yakof Bhai Anavar Bhai Pathan,amreli,sandhi sociaty,28,Currently married,Male,47,001 to 1,19,999,Yes,Kaccha,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101754,110201017543,Maher Yasif Bhai Nareza,amreli,sandhi sociaty,10,Never Married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101754,110201017542,Rakiza Yashif Bhai Nareza,amreli,sandhi sociaty,30,Currently married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101754,110201017541,Yasif Bhai Hanif Bhai Nareza,amreli,sandhi sociaty,32,Currently married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101227,110201012272,Hafijaben Yasinbhai Nareja,Amreli,Sandhi society,37,Currently married,Female,47,001 to 1,19,999,Yes,Kaccha,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101227,110201012275,Husenbhai Yasinbhai Nareja,Amreli,Sandhi society,2,Never Married,Male,47,001 to 1,19,999,Yes,Kaccha,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101227,110201012273,Maherben Yasinbhai Nareja,Amreli,Sandhi society,10,Never Married,Female,47,001 to 1,19,999,Yes,Kaccha,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101227,110201012274,Misnainben Yasinbhai Nareja,Amreli,Sandhi society,7,Never Married,Female,47,001 to 1,19,999,Yes,Kaccha,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101227,110201012271,Yasinbhai Hanifbhai Nareja,Amreli,Sandhi society,32,Currently married,Male,47,001 to 1,19,999,Yes,Kaccha,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101367,110201013672,Hafijben Yasinbhai Nareja,amreli,sandhi society,27,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Pregnantting,,,,,,Village does not exists
+Amreli,11020101367,110201013675,Husenbhai Yasinbhai Nareja,amreli,sandhi society,3,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101367,110201013673,Maherben Yasinbhai Nareja,amreli,sandhi society,10,Never Married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101367,110201013674,Misanenbhai Yasinbhai Nareja,amreli,sandhi society,7,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101367,110201013671,Yasinbhai Hanifbhai Nareja,amreli,sandhi society,28,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101210,110201012103,Dhruvi Yogesh Bhai Malvi,amreli gram panchayt,giriraj blok No,12,Never Married,Female,2,00,000 to 3,99,999,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101210,110201012104,Ishan Yogesh Bhai Malvi,amreli gram panchayt,giriraj blok No,9,Never Married,Male,2,00,000 to 3,99,999,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101210,110201012102,Nikita Ben Yogesh Bhai Malvi,amreli gram panchayt,giriraj blok No,37,Currently married,Female,2,00,000 to 3,99,999,Yes,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101210,110201012101,Yogesh Bhai Ramesh Bhai Malvi,amreli gram panchayt,giriraj blok No,39,Currently married,Male,2,00,000 to 3,99,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101324,110201013241,Dhruvi Yogeshbhai Malvi,giriraj,giriraj nagar,12,Never Married,Female,2,00,000 to 3,99,999,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101324,110201013244,Ishan Yogeshbhai Malvi,giriraj,giriraj nagar,10,Never Married,Male,2,00,000 to 3,99,999,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101324,110201013243,Nikitaben Yogeshbhai Malvi,giriraj,giriraj nagar,37,Currently married,Female,2,00,000 to 3,99,999,Yes,Pucca,No disability,No,,Yes,Pregnantting,,,,,,Village does not exists
+Amreli,11020101324,110201013242,Yogeshbhai Rameshbhai Malvi,giriraj,giriraj nagar,39,Currently married,Male,2,00,000 to 3,99,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101630,110201016303,Harsh Yogesh Bhai Timbliya,Amreli nagar palika,amreli,16,Never Married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101630,110201016302,Nita Ben Yogesh Bhai Timbliya,Amreli nagar palika,amreli,40,Currently married,Female,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101630,110201016301,Yogesh Bhai Rati Bhai Timbliya,Amreli nagar palika,amreli,40,Currently married,Male,Less than and equal to 47,000,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101631,110201016312,Ashaben Yogeshbhai Parmar,baxipur,baxipur,35,Currently married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101631,110201016313,Parimal Yogeshbhai Parmar,baxipur,baxipur,15,Never Married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101631,110201016311,Yogeshbhai Arvindbhai Parmar,baxipur,baxipur,36,Currently married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101445,110201014453,Kishan Yogeshbhai Dhone,Amreli nagarpalika,gaytrishktipith,10,Never Married,Male,47,001 to 1,19,999,,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101445,110201014452,Meghnaben Yogeshbhai Dhone,Amreli nagarpalika,gaytrishktipith,42,Currently married,Female,47,001 to 1,19,999,,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101445,110201014451,Yogeshbhai Manubhai Dhone,Amreli nagarpalika,gaytrishktipith,47,Currently married,Male,47,001 to 1,19,999,,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101156,110201011563,Kishan Yogeshbhai Dhone,Amreli,Deepak high school,13,Never Married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101156,110201011562,Medhanaben Yogeshbhai Dhone,Amreli,Deepak high school,42,Currently married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101156,110201011561,Yogeshbhai Manurav Dhone,Amreli,Deepak high school,47,Currently married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101325,110201013254,Dhruvi Yogeshbhai Malvi,amreli,giriraj nagar,12,Never Married,Female,4,00,000 to 4,99,999,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101325,110201013252,Ishan Bhai Yogeshbhai Malvi,amreli,giriraj nagar,10,Never Married,Male,4,00,000 to 4,99,999,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101325,110201013253,Nayna Ben Yogeshbhai Malvi,amreli,giriraj nagar,39,Currently married,Female,4,00,000 to 4,99,999,Yes,Pucca,No disability,Yes,,Yes,Pregnantting,,,,,,Village does not exists
+Amreli,11020101325,110201013251,Yogeshbhai Rameshbhai Malvi,amreli,giriraj nagar,42,Currently married,Male,4,00,000 to 4,99,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101446,110201014465,Maheshbhai Yogeshbhai Vala,amreli,andhashalapase,18,Never Married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101446,110201014464,Riya Yogeshbhai Vala,amreli,andhashalapase,7,Never Married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101446,110201014462,Sejalben Yogeshbhai Vala,amreli,andhashalapase,43,Currently married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,Pregnantting,,,,,,Village does not exists
+Amreli,11020101446,110201014463,Vasudhara Yogeshbhai Vala,amreli,andhashalapase,15,Never Married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101446,110201014461,Yogeshbhai Shambhubhai Vala,amreli,andhashalapase,45,Currently married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101633,110201016334,Divyaben Yogeshbhai Khuman,amreli,veshtan park,37,Currently married,Female,1,20,000 to 1,99,999,Yes,Pucca,No disability,Yes,,Yes,Pregnantting,,,,,,Village does not exists
+Amreli,11020101633,110201016333,Grishaben Yogeshbhai Khuman,amreli,veshtan park,10,Never Married,Female,1,20,000 to 1,99,999,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101633,110201016332,Jenishbhai Yogeshbhai Khuman,amreli,veshtan park,15,Never Married,Male,1,20,000 to 1,99,999,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101633,110201016331,Yogeshbhai Vinodbhai Khuman,amreli,veshtan park,39,Currently married,Male,1,20,000 to 1,99,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101157,110201011576,Arman Nasirbhai Dabawala,amreli gram panchayat,jelnisamejumamasjidpase,12,Never Married,Male,47,001 to 1,19,999,,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101157,110201011574,Muskan Nasirbhai Dabawala,amreli gram panchayat,jelnisamejumamasjidpase,17,Never Married,Female,47,001 to 1,19,999,,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101157,110201011572,Nasirbhai Yusufbhai Dabawala,amreli gram panchayat,jelnisamejumamasjidpase,39,Currently married,Male,47,001 to 1,19,999,,Pucca,No disability,Yes,,No,,,,,,,Village does not exists
+Amreli,11020101157,110201011573,Samim Nasirbhai Dabawala,amreli gram panchayat,jelnisamejumamasjidpase,36,Currently married,Female,47,001 to 1,19,999,,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101157,110201011575,Shahezan Nasirbhai Dabawala,amreli gram panchayat,jelnisamejumamasjidpase,13,Never Married,Male,47,001 to 1,19,999,,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101157,110201011571,Yusufbhai Mamadbhai Dabawala,amreli gram panchayat,jelnisamejumamasjidpase,63,Currently married,Male,47,001 to 1,19,999,,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101895,110201018953,Arman Yusuf Munivar,Amreli,mini kasba,13,Never Married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101895,110201018952,Najma Yusuf Munivar,Amreli,mini kasba,35,Currently married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,Pregnantting,,,,,,Village does not exists
+Amreli,11020101895,110201018951,Yusufbhai Narenbhai Munivar,Amreli,mini kasba,39,Currently married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101896,110201018962,Ashma Zahir Theyam,amreli,tai vada,36,Currently married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101896,110201018963,Gulamahusen Zahir Theyam,amreli,tai vada,14,Never Married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,,,,,,,Village does not exists
+Amreli,11020101896,110201018961,Zahir Musha Theyam,amreli,tai vada,40,Currently married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101756,110201017562,Afsana Ben Zakir Bhai Sama,amreli,sandhi sociaty,33,Currently married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,Pregnantting,,,,,,Village does not exists
+Amreli,11020101756,110201017563,Taskina Zakir Bhai Sama,amreli,sandhi sociaty,10,Never Married,Female,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101756,110201017561,Zakir Bhai Suleman Bhai Sama,amreli,sandhi sociaty,35,Currently married,Male,47,001 to 1,19,999,Yes,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101273,110201012733,Kanchanben Keshorbhai Gohil,amreli,aasopalav,35,Currently married,Female,47,001 to 1,19,999,,Pucca,No disability,Yes,,Yes,Pregnantting,,,,,,Village does not exists
+Amreli,11020101273,110201012731,Keshorbhai Zamrabhai Gohil,amreli,aasopalav,38,Currently married,Male,47,001 to 1,19,999,,Pucca,No disability,Yes,,Yes,,,,,,,Village does not exists
+Amreli,11020101273,110201012734,Rinku Ashok Gohil,amreli,aasopalav,5,Never Married,Female,47,001 to 1,19,999,,Pucca,No disability,Yes,,,Neither Pregnantsing,,,,,,Village does not exists
+Amreli,11020101273,110201012732,Shubam Keshorbhai Gohil,amreli,aasopalav,12,Never Married,Male,47,001 to 1,19,999,,Pucca,No disability,Yes,,,,,,,,,Village does not exists
